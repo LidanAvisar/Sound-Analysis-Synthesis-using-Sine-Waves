@@ -39,7 +39,7 @@ pip install numpy scipy matplotlib librosa
 Clone the repository:
 
 ```sh
-git clone [<repository-url>](https://github.com/LidanAvisar/Sound-Analysis-Synthesis-using-Sine-Waves)
+git clone https://github.com/LidanAvisar/Sound-Analysis-Synthesis-using-Sine-Waves
 cd Sound-Analysis-Synthesis
 ```
 
